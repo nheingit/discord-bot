@@ -2,7 +2,7 @@
 
 ## Setup
 
-Create an account on [heroku](https://heroku.com).
+Create an account on [Heroku](https://heroku.com).
 After signing in create a new app.
 
 ![create app](./assets/createNewApp.png)
